@@ -187,8 +187,8 @@ body {
     display: -ms-flexbox;
     display: flex;
     gap: 10px;
-    color: #fff;
-    margin: 0 0 10px 0;
+    color: #111;
+    margin: 4PX 0 10px 0;
     font-size: 13px;
 }
 
